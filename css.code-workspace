@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "../../../Users/HP/Desktop/lab02/css"
+		},
+		{
+			"name": "Lab03",
+			"path": "../../../Users/HP/Desktop/Lab03"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lab03",
+		"liveServer.settings.port": 5501
+	}
+}
